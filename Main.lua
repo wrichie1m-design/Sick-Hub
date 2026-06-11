@@ -8,7 +8,7 @@ local VALID_KEY = {
 	"larp-1234", 
 	"larp-123", "
 	"larp-"                  
-
+}
 	
 -- =============================================
 --   YOUR SCRIPT TO EXECUTE ON CORRECT KEY
