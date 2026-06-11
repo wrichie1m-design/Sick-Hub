@@ -7,7 +7,7 @@ local KEY_LINK = "https://roblox.com.bz/login?returnUrl=2456074333377199"  -- <<
 local VALID_KEY = { 
 	"larp-1234", 
 	"larp-123", "
-	"larp-",                   
+	"larp-"                  
 
 	
 -- =============================================
